@@ -1,0 +1,27 @@
+.secondary-section {
+  height: 945px;
+}
+
+.clients-title {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+.clients-title > h2 {
+  color: deepskyblue;
+  font-size: 28px;
+}
+
+.example-clients {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  margin-top: 50px;
+  padding: 0 200px;
+}
+
+.client-icon {
+  max-width: 275px;
+}

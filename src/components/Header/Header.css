@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+  margin-left: 210px;
+}
+
+.logo-icon {
+  width: 152px;
+  height: auto;
+  max-width: 100%;
+}
+
+.nav-bar {
+  display: flex;
+  height: 77px;
+  width: 652px;
+  margin-top: 25px;
+  margin-right: 150px;
+}
+
+.menu-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 50vw;
+  list-style: none;
+  color: white;
+}
